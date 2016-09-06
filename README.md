@@ -1,5 +1,5 @@
-# Titanic_Passenger_Survival_Prediction_Random_Forest
-This predicts Titanic passenger survival rate with random forest.  
+# Titanic_Passenger_Survival_Prediction
+This predicts and analyzes Titanic passenger survival rate with random forest, decision tree, and logistic regression.  
 The workflow of this data mining project inludes:
 - Preliminary analysis with R, including Apriori algorithm, correlation analysis and data visualization(using ggplot2)
 -	Data preprocessing and feature engineering with python
