@@ -8,3 +8,4 @@ The workflow of this data mining project inludes:
 - Logistic Regression modeling with R to explore factors influencing the survival rate (Feature importance ranking by Random Forest is used as a feature selecting tool to choose important features for Logistic Regression)
 
 ## Data
+You can download the dataset [here](https://www.kaggle.com/c/titanic/data) on [Kaggle](https://www.kaggle.com/).
