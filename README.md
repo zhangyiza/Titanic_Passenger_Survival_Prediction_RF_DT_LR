@@ -5,7 +5,7 @@ This predicts and analyzes Titanic passenger survival rate with random forest, d
 You can download the dataset [here](https://www.kaggle.com/c/titanic/data) on [Kaggle](https://www.kaggle.com/).
 
 ## Workflow
-The workflow of this data mining project inludes:
+The workflow of this data mining project includes:
 - Preliminary analysis with R, including Apriori algorithm, correlation analysis and data visualization(using ggplot2) --- refer to `Apriori.R`
 -	Data preprocessing and feature engineering with python
 -	Random Forest modeling with python (to get an out-of-bag error of 0.162) --- refer to `RandomForest.py` and scripts with out-of-sample test `RandomForest_with_test.py`, `RandomForest_with_test_dummy.py`
